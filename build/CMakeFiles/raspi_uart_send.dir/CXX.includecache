@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/LV_code/opencv_test/raspi_uart_send.cpp
+raspi_uart_send.h
+/home/pi/LV_code/opencv_test/raspi_uart_send.h
+
+/home/pi/LV_code/opencv_test/raspi_uart_send.h
+stdio.h
+-
+stdint.h
+-
+iostream
+-
+unistd.h
+-
+fcntl.h
+-
+termios.h
+-
+wiringPi.h
+-
+wiringSerial.h
+-
+

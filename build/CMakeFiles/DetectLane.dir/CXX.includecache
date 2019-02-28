@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/LV_code/opencv_test/pi_lane_detect.cpp
+pi_lane_detect.h
+/home/pi/LV_code/opencv_test/pi_lane_detect.h
+
+/home/pi/LV_code/opencv_test/pi_lane_detect.h
+iostream
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+opencv2/opencv.hpp
+-
+vector
+-
+math.h
+-
+algorithm
+-
+

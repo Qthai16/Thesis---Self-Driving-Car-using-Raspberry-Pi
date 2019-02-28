@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraspi_uart_send.a  CMakeFiles/raspi_uart_send.dir/raspi_uart_send.cpp.o
+/usr/bin/ranlib libraspi_uart_send.a

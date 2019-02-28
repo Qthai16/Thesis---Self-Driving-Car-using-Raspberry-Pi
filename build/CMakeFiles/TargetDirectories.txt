@@ -1,0 +1,9 @@
+/home/pi/LV_code/opencv_test/build/CMakeFiles/install.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/list_install_components.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/rebuild_cache.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/DetectLane.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/raspi_uart_send.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/install/local.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/main.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/install/strip.dir
+/home/pi/LV_code/opencv_test/build/CMakeFiles/edit_cache.dir
